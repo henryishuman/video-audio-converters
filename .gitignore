@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+converted_audio_files/**/*
+converted_video_files/**/*
+example_audio_input/**/*
+example_video_input/**/*
